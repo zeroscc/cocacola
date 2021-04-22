@@ -1,4 +1,4 @@
- - {name: 🇭🇰 【FASTQ_A】HK/香港_1, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: "436306947365404672", password: "4e71ad35-b95f-4e90-a0d2-af1de7d335e3", tls: true, skip-cert-verify: false}
+  - {name: 🇭🇰 【FASTQ_A】HK/香港_1, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: "436306947365404672", password: "4e71ad35-b95f-4e90-a0d2-af1de7d335e3", tls: true, skip-cert-verify: false}
   - {name: 🇭🇰 【FASTQ_A】HK/香港_2, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: "436306947365404672", password: "4e71ad35-b95f-4e90-a0d2-af1de7d335e3", tls: true, skip-cert-verify: false}
   - {name: 🇭🇰 【FASTQ_A】HK/香港_3, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: "436306947365404672", password: "4e71ad35-b95f-4e90-a0d2-af1de7d335e3", tls: true, skip-cert-verify: false}
   - {name: 🇭🇰 【FASTQ_A】HK/香港_4, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: "436306947365404672", password: "4e71ad35-b95f-4e90-a0d2-af1de7d335e3", tls: true, skip-cert-verify: false}
