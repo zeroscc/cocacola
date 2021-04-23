@@ -1,4 +1,3 @@
-[server_local]
 http = a1.ap.fastqvpn.com:29980, username=436306947365404672, password=4e71ad35-b95f-4e90-a0d2-af1de7d335e3, over-tls=true, tls-verification=true, tag=🇭🇰 【FASTQ_A】HK/香港_1
 http = a2.ap.fastqvpn.com:29980, username=436306947365404672, password=4e71ad35-b95f-4e90-a0d2-af1de7d335e3, over-tls=true, tls-verification=true, tag=🇭🇰 【FASTQ_A】HK/香港_2
 http = a3.ap.fastqvpn.com:29980, username=436306947365404672, password=4e71ad35-b95f-4e90-a0d2-af1de7d335e3, over-tls=true, tls-verification=true, tag=🇭🇰 【FASTQ_A】HK/香港_3
