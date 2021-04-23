@@ -1,0 +1,15 @@
+vmess=17.xxft-node.xyz:20543, method=aes-128-gcm, password=d729d0f2-5fab-3e82-973e-8507375e897c, obfs=ws, obfs-host=microsoft.com, obfs-uri=/zh-cn, fast-open=false, udp-relay=false, tag=US1-美国4837
+
+vmess=15.xxft-node.xyz:60001, method=aes-128-gcm, password=d729d0f2-5fab-3e82-973e-8507375e897c, obfs=ws, obfs-host=microsoft.com, obfs-uri=/en-us, fast-open=false, udp-relay=false, tag=SG1-新加坡AGA
+
+vmess=23.xxft-node.xyz:21111, method=aes-128-gcm, password=d729d0f2-5fab-3e82-973e-8507375e897c, obfs=ws, obfs-host=microsoft.com, obfs-uri=/zh-cn, fast-open=false, udp-relay=false, tag=SG-2▲新加坡AGA
+
+vmess=14.xxft-node.xyz:60000, method=aes-128-gcm, password=d729d0f2-5fab-3e82-973e-8507375e897c, obfs=ws, obfs-host=microsoft.com, obfs-uri=/en-us, fast-open=false, udp-relay=false, tag=KR1-韩国AGA(暂时维护)
+
+vmess=16.xxft-node.xyz:60002, method=aes-128-gcm, password=d729d0f2-5fab-3e82-973e-8507375e897c, obfs=ws, obfs-host=microsoft.com, obfs-uri=/en-us, fast-open=false, udp-relay=false, tag=JP1-日本AGA
+
+vmess=05.xxft-node.xyz:443, method=aes-128-gcm, password=d729d0f2-5fab-3e82-973e-8507375e897c, obfs=ws, obfs-host=microsoft.com, obfs-uri=/zh-cn, fast-open=false, udp-relay=false, tag=HK3-香港AGA
+
+vmess=04.xxft-node.xyz:543, method=aes-128-gcm, password=d729d0f2-5fab-3e82-973e-8507375e897c, obfs=ws, obfs-host=microsoft.com, obfs-uri=/zh-cn, fast-open=false, udp-relay=false, tag=HK2-香港AGA
+
+vmess=40.xxft-node.xyz:52222, method=aes-128-gcm, password=d729d0f2-5fab-3e82-973e-8507375e897c, obfs=ws, obfs-host=microsoft.com, obfs-uri=/zh-cn, fast-open=false, udp-relay=false, tag=HK1-香港AGA
